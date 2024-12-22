@@ -26,6 +26,7 @@ answers leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0001-two-sum) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -60,4 +61,8 @@ answers leetcode
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
