@@ -1,30 +1,25 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
-        string num = "";
-        // Convert the array of digits into a string
-        for (int digit : digits) {
-            num += (digit + '0'); // Convert integer to char
+        int n = digits.size();
+        
+        // Step 1: Traverse the array from the last digit
+        for (int i = n - 1; i >= 0; i--) {
+            if (digits[i] < 9) {
+                // If the current digit is less than 9, increment it and return the array
+                digits[i]++;
+                return digits;
+            }
+            // Set the current digit to 0 if it's 9 (carry over)
+            digits[i] = 0;
         }
 
-        // Perform addition from the last digit
-        int carry = 1;
-        for (int i = num.size() - 1; i >= 0; i--) {
-            int sum = (num[i] - '0') + carry; // Convert char to int
-            num[i] = (sum % 10) + '0';        // Update digit in string
-            carry = sum / 10;                 // Update carry
+        // Step 2: If all digits were 9, add an extra 1 at the beginning
+        vector<int> result = {1};
+        for (int i = 0; i < n; i++) {
+            result.push_back(digits[i]);
         }
-
-        // If there's a carry left, prepend '1'
-        if (carry) {
-            num.insert(num.begin(), '1');
-        }
-
-        // Convert the string back to a vector of integers
-        vector<int> result;
-        for (char c : num) {
-            result.push_back(c - '0'); // Convert char to int
-        }
+        
         return result;
     }
 };
