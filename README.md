@@ -75,4 +75,12 @@ answers leetcode
 | ------- |
 | [0027-remove-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
