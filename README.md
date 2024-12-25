@@ -80,6 +80,7 @@ answers leetcode
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mahajan-Sachin/leetcode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/Mahajan-Sachin/leetcode/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
