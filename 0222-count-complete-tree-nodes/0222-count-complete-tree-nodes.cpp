@@ -9,17 +9,21 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+ class Solution {
+    int count=0;
 public:
-    void inorder(TreeNode* root,vector<int>&ans){
-        if(root==NULL) return;
-        inorder(root->left,ans);
-        ans.push_back(root->val);
-        inorder(root->right,ans);
-    }
     int countNodes(TreeNode* root) {
-        vector<int>ans;
-        inorder(root,ans);
-        return ans.size();
+        if (root==NULL){
+            return 0;
+        }
+        if (root->left!=NULL){
+            count++;
+            countNodes(root->left);
+        }
+        if (root->right!=NULL){
+            count++;
+            countNodes(root->right);
+        }
+        return count+1;
     }
 };
