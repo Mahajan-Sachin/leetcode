@@ -38,6 +38,7 @@ answers leetcode
 | [0119-pascals-triangle-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -55,6 +56,7 @@ answers leetcode
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -82,6 +84,7 @@ answers leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
