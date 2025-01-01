@@ -43,6 +43,7 @@ answers leetcode
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -62,6 +63,7 @@ answers leetcode
 | [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -127,6 +129,7 @@ answers leetcode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Tree
 |  |
 | ------- |
@@ -151,4 +154,16 @@ answers leetcode
 | [0136-single-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
