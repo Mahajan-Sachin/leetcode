@@ -1,3 +1,6 @@
+//Once slow and fast meet in the cycle, the distance from the head of the list to the start of the cycle is equal to the distance from the meeting point back to the start of the cycle.
+
+
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
