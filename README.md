@@ -90,6 +90,7 @@ answers leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Mahajan-Sachin/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ answers leetcode
 | [0027-remove-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Mahajan-Sachin/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -172,4 +174,5 @@ answers leetcode
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mahajan-Sachin/leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
