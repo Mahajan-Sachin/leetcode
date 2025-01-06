@@ -179,6 +179,7 @@ answers leetcode
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Mahajan-Sachin/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Union Find
