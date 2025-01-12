@@ -134,6 +134,7 @@ answers leetcode
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -154,6 +155,7 @@ answers leetcode
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -162,11 +164,13 @@ answers leetcode
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0101-symmetric-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0101-symmetric-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Bit Manipulation
 |  |
