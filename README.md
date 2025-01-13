@@ -7,6 +7,7 @@ answers leetcode
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mahajan-Sachin/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mahajan-Sachin/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/1013-fibonacci-number) |
@@ -120,6 +121,7 @@ answers leetcode
 | [0014-longest-common-prefix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mahajan-Sachin/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mahajan-Sachin/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Mahajan-Sachin/leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
 ## Trie
@@ -175,6 +177,7 @@ answers leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
@@ -206,4 +209,8 @@ answers leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mahajan-Sachin/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
