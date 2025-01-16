@@ -61,6 +61,7 @@ answers leetcode
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahajan-Sachin/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Mahajan-Sachin/leetcode/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -183,6 +184,7 @@ answers leetcode
 | ------- |
 | [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Mahajan-Sachin/leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
