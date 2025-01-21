@@ -52,6 +52,7 @@ answers leetcode
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Number Theory
 |  |
 | ------- |
