@@ -136,6 +136,7 @@ answers leetcode
 | [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Mahajan-Sachin/leetcode/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Trie
 |  |
