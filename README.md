@@ -50,6 +50,7 @@ answers leetcode
 | [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Mahajan-Sachin/leetcode/tree/master/0605-can-place-flowers) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
@@ -76,6 +77,7 @@ answers leetcode
 | [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
