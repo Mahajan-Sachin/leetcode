@@ -58,6 +58,7 @@ answers leetcode
 | [0414-third-maximum-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Mahajan-Sachin/leetcode/tree/master/0605-can-place-flowers) |
+| [0792-binary-search](https://github.com/Mahajan-Sachin/leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -184,6 +185,7 @@ answers leetcode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Mahajan-Sachin/leetcode/tree/master/0441-arranging-coins) |
+| [0792-binary-search](https://github.com/Mahajan-Sachin/leetcode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Tree
