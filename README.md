@@ -6,6 +6,7 @@ answers leetcode
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Mahajan-Sachin/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mahajan-Sachin/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mahajan-Sachin/leetcode/tree/master/0070-climbing-stairs) |
@@ -27,6 +28,7 @@ answers leetcode
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Mahajan-Sachin/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Mahajan-Sachin/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
