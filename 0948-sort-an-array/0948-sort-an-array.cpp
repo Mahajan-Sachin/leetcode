@@ -1,42 +1,52 @@
 class Solution {
-  private:
-    void merge(vector<int> &nums, int low, int mid, int high) {
-        if(low >= high) 
-            return;
-        
-        int l = low, r = mid + 1, k = 0, size = high - low + 1;
-        vector<int> sorted(size, 0);
-        
-        while (l <= mid and r <= high){
-            if(nums[l] < nums[r])
-                sorted[k++] = nums[l++];
-            else
-                sorted[k++] = nums[r++];
-        }
-
-        while(l <= mid) 
-            sorted[k++] = nums[l++];
-        while(r <= high) 
-            sorted[k++] = nums[r++];
-        
-        for(k = 0; k < size; k++)
-            nums[k + low] = sorted[k];
-    }
-
-    void mergeSort(vector<int>& nums, int low, int high){
-        if(low >= high) 
-            return;
-	    
-        int mid = low + (high - low) / 2;
-	    
-        mergeSort(nums, low, mid);
-	    mergeSort(nums, mid + 1, high);
-	    merge(nums, low, mid, high);
-    }
-
 public:
+void mergeAndSort(vector<int>&arr,int start,int mid,int end){
+        int left=mid-start+1;
+        int right=end-mid;
+        int* Left=new int[left];
+        int* Right=new int[right];
+        for(int i=0;i<left;i++){
+            Left[i]=arr[start+i];
+        }
+        for(int i=0;i<right;i++){
+            Right[i]=arr[mid+1+i];
+        }
+        int i = 0, j = 0, k = start;
+        while(i<left && j<right){
+            if(Left[i]<Right[j]){
+                arr[k]=Left[i];
+                i++;
+            }
+            else{
+                arr[k]=Right[j];
+                j++;
+            }
+            k++;
+        }
+        while(i<left){
+            arr[k]=Left[i];
+            i++;
+            k++;
+        }
+        while(j<right){
+            arr[k]=Right[j];
+            j++;
+            k++;
+        }
+}
+void divideAndConquer(vector<int>&arr,int start,int end){
+    if (start >= end) {
+            return;  // Base case, no need to split further if it's a single element or empty array
+        }
+    if(start<end){
+        int mid = start + (end - start) / 2;
+        divideAndConquer(arr,start,mid);
+        divideAndConquer(arr,mid+1,end);
+        mergeAndSort(arr,start,mid,end);
+    }
+}
     vector<int> sortArray(vector<int>& nums) {
-        mergeSort(nums, 0, nums.size()-1);
+        divideAndConquer(nums,0,nums.size()-1);
         return nums;
     }
 };
