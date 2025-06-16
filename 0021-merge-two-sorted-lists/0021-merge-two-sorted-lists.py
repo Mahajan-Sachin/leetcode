@@ -15,10 +15,7 @@ class Solution:
                 tail.next=head2
                 head2=head2.next
             tail=tail.next
-        if head1:
-            tail.next=head1
-        elif head2:
-            tail.next=head2
+        tail.next=head1 if head1 else head2
         return dummy.next
 
         
