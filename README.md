@@ -78,6 +78,7 @@ answers leetcode
 | [0004-median-of-two-sorted-arrays](https://github.com/Mahajan-Sachin/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mahajan-Sachin/leetcode/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
@@ -85,6 +86,7 @@ answers leetcode
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
@@ -100,6 +102,7 @@ answers leetcode
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -137,6 +140,7 @@ answers leetcode
 | [0125-valid-palindrome](https://github.com/Mahajan-Sachin/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mahajan-Sachin/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahajan-Sachin/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
@@ -261,6 +265,7 @@ answers leetcode
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Mahajan-Sachin/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0908-middle-of-the-linked-list) |
