@@ -62,6 +62,7 @@ answers leetcode
 | [0283-move-zeroes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Mahajan-Sachin/leetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/Mahajan-Sachin/leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
@@ -131,6 +132,7 @@ answers leetcode
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +172,7 @@ answers leetcode
 | [0020-valid-parentheses](https://github.com/Mahajan-Sachin/leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mahajan-Sachin/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahajan-Sachin/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -280,4 +283,8 @@ answers leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
