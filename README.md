@@ -173,6 +173,7 @@ answers leetcode
 | [0020-valid-parentheses](https://github.com/Mahajan-Sachin/leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mahajan-Sachin/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahajan-Sachin/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/Mahajan-Sachin/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mahajan-Sachin/leetcode/tree/master/0739-daily-temperatures) |
 ## Tree
@@ -290,4 +291,12 @@ answers leetcode
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mahajan-Sachin/leetcode/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Mahajan-Sachin/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Mahajan-Sachin/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
