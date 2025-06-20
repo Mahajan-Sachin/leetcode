@@ -66,6 +66,7 @@ answers leetcode
 | [0605-can-place-flowers](https://github.com/Mahajan-Sachin/leetcode/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Mahajan-Sachin/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Mahajan-Sachin/leetcode/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/Mahajan-Sachin/leetcode/tree/master/0860-design-circular-queue) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -278,6 +279,7 @@ answers leetcode
 | [0160-intersection-of-two-linked-lists](https://github.com/Mahajan-Sachin/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0860-design-circular-queue](https://github.com/Mahajan-Sachin/leetcode/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Union Find
 |  |
@@ -297,9 +299,11 @@ answers leetcode
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mahajan-Sachin/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mahajan-Sachin/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Mahajan-Sachin/leetcode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Mahajan-Sachin/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mahajan-Sachin/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/Mahajan-Sachin/leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
