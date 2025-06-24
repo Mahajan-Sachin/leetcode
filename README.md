@@ -193,6 +193,7 @@ answers leetcode
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahajan-Sachin/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Search Tree
@@ -208,6 +209,7 @@ answers leetcode
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Mahajan-Sachin/leetcode/tree/master/0441-arranging-coins) |
+| [0450-delete-node-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Mahajan-Sachin/leetcode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -227,6 +229,7 @@ answers leetcode
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahajan-Sachin/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
