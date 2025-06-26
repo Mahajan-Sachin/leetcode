@@ -48,6 +48,7 @@ answers leetcode
 | [0035-search-insert-position](https://github.com/Mahajan-Sachin/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mahajan-Sachin/leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Mahajan-Sachin/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Mahajan-Sachin/leetcode/tree/master/0118-pascals-triangle) |
@@ -89,6 +90,7 @@ answers leetcode
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mahajan-Sachin/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
@@ -143,6 +145,7 @@ answers leetcode
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Mahajan-Sachin/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mahajan-Sachin/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mahajan-Sachin/leetcode/tree/master/0141-linked-list-cycle) |
