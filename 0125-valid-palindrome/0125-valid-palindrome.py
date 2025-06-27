@@ -2,8 +2,7 @@ class Solution:
     def isPalindrome(self, s: str) -> bool:
         cleaned=""
         for char in s:
-            if char.isalnum():
-                cleaned+=char.lower()
+            if char.isalnum():cleaned+=char.lower()
         left=0
         right=len(cleaned)-1
         while(left<right):
