@@ -2,7 +2,7 @@ class Solution:
     def isValid(self, s: str) -> bool:
         stack=[]
         for char in s:
-            if char=='(':
+            if char =='(':
                 stack.append(')')
             elif char=='{':
                 stack.append('}')
@@ -14,3 +14,4 @@ class Solution:
                 else:
                     stack.pop()
         return not stack
+                
