@@ -49,6 +49,7 @@ answers leetcode
 | [0027-remove-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mahajan-Sachin/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mahajan-Sachin/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mahajan-Sachin/leetcode/tree/master/0075-sort-colors) |
@@ -94,6 +95,7 @@ answers leetcode
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Mahajan-Sachin/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0148-sort-list) |
@@ -133,6 +135,7 @@ answers leetcode
 | ------- |
 | [0001-two-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahajan-Sachin/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mahajan-Sachin/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mahajan-Sachin/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -171,6 +174,7 @@ answers leetcode
 | [0005-longest-palindromic-substring](https://github.com/Mahajan-Sachin/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mahajan-Sachin/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mahajan-Sachin/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Mahajan-Sachin/leetcode/tree/master/0125-valid-palindrome) |
