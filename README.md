@@ -277,6 +277,7 @@ answers leetcode
 | [0226-invert-binary-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -289,6 +290,7 @@ answers leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Bit Manipulation
@@ -337,6 +339,7 @@ answers leetcode
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mahajan-Sachin/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
@@ -362,5 +365,6 @@ answers leetcode
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
