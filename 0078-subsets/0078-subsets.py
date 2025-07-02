@@ -1,6 +1,6 @@
 class Solution:
     def solve(self,nums,index,result,output):
-        if (index>=len(nums)):
+        if (index==len(nums)):
             result.append(output[:])
             return
         #exclude:
