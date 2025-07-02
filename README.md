@@ -53,6 +53,7 @@ answers leetcode
 | [0053-maximum-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mahajan-Sachin/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mahajan-Sachin/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Mahajan-Sachin/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Mahajan-Sachin/leetcode/tree/master/0118-pascals-triangle) |
@@ -297,6 +298,7 @@ answers leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Mahajan-Sachin/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Mahajan-Sachin/leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -367,4 +369,8 @@ answers leetcode
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mahajan-Sachin/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
