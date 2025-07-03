@@ -1,6 +1,6 @@
 class Solution:
     def helper(self,arr,index,curr,result):
-        if index==len(arr):
+        if index>=len(arr):
             result.append(curr[:])
             return
         #exclude
