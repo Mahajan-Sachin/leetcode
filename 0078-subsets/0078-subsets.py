@@ -1,20 +1,16 @@
 class Solution:
-    def solve(self,nums,index,result,output):
-        if (index==len(nums)):
-            result.append(output[:])
+    def helper(self,arr,index,curr,result):
+        if index==len(arr):
+            result.append(curr[:])
             return
-        #exclude:
-        self.solve(nums,index+1,result,output)
-        #include
-        output.append(nums[index])
-        self.solve(nums,index+1,result,output)
-        output.pop()
-    def subsets(self, nums: List[int]) -> List[List[int]]:
-        result=[] # ultimate reult
-        self.solve(nums,0,result,[])
+        #exclude
+        self.helper(arr,index+1,curr,result)
+        #include:
+        curr.append(arr[index])
+        self.helper(arr,index+1,curr,result)
+        curr.pop()
+    def subsets(self, arr: List[int]) -> List[List[int]]:
+        result=[]
+        self.helper(arr,0,[],result)
         return result
-
-        
-        
-        
         
