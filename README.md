@@ -50,6 +50,7 @@ answers leetcode
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mahajan-Sachin/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Mahajan-Sachin/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Mahajan-Sachin/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mahajan-Sachin/leetcode/tree/master/0075-sort-colors) |
@@ -372,5 +373,6 @@ answers leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Mahajan-Sachin/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mahajan-Sachin/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
