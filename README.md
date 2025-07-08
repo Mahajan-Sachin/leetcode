@@ -192,6 +192,7 @@ answers leetcode
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0812-rotate-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0812-rotate-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Trie
 |  |
@@ -380,4 +381,8 @@ answers leetcode
 | ------- |
 | [0051-n-queens](https://github.com/Mahajan-Sachin/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Mahajan-Sachin/leetcode/tree/master/0078-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
