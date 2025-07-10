@@ -12,6 +12,7 @@ answers leetcode
 | [0066-plus-one](https://github.com/Mahajan-Sachin/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Mahajan-Sachin/leetcode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mahajan-Sachin/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Mahajan-Sachin/leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/1013-fibonacci-number) |
@@ -64,6 +65,7 @@ answers leetcode
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahajan-Sachin/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Mahajan-Sachin/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mahajan-Sachin/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahajan-Sachin/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
@@ -207,6 +209,7 @@ answers leetcode
 | [0020-valid-parentheses](https://github.com/Mahajan-Sachin/leetcode/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mahajan-Sachin/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mahajan-Sachin/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Mahajan-Sachin/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Mahajan-Sachin/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mahajan-Sachin/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0234-palindrome-linked-list) |
