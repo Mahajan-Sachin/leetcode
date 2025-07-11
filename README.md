@@ -80,6 +80,7 @@ answers leetcode
 | [0739-daily-temperatures](https://github.com/Mahajan-Sachin/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Mahajan-Sachin/leetcode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/Mahajan-Sachin/leetcode/tree/master/0860-design-circular-queue) |
+| [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -367,6 +368,7 @@ answers leetcode
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
+| [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -399,4 +401,8 @@ answers leetcode
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0812-rotate-string) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
