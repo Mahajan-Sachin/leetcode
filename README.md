@@ -8,6 +8,7 @@ answers leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mahajan-Sachin/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mahajan-Sachin/leetcode/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Mahajan-Sachin/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mahajan-Sachin/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Mahajan-Sachin/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
@@ -52,6 +53,7 @@ answers leetcode
 | [0027-remove-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mahajan-Sachin/leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Mahajan-Sachin/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Mahajan-Sachin/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0053-maximum-subarray) |
@@ -406,6 +408,7 @@ answers leetcode
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mahajan-Sachin/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
