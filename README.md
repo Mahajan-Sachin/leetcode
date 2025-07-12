@@ -55,6 +55,7 @@ answers leetcode
 | [0049-group-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Mahajan-Sachin/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Mahajan-Sachin/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mahajan-Sachin/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mahajan-Sachin/leetcode/tree/master/0078-subsets) |
@@ -367,6 +368,7 @@ answers leetcode
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Mahajan-Sachin/leetcode/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
 ## Monotonic Stack
@@ -404,5 +406,6 @@ answers leetcode
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
