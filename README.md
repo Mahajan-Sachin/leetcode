@@ -121,6 +121,7 @@ answers leetcode
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2887-sort-vowels-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -209,6 +210,7 @@ answers leetcode
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mahajan-Sachin/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2887-sort-vowels-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
 |  |
 | ------- |
