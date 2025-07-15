@@ -79,6 +79,7 @@ answers leetcode
 | [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
@@ -107,6 +108,7 @@ answers leetcode
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Mahajan-Sachin/leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -121,6 +123,7 @@ answers leetcode
 | [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mahajan-Sachin/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
@@ -132,6 +135,7 @@ answers leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -141,6 +145,7 @@ answers leetcode
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -150,6 +155,7 @@ answers leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -167,6 +173,7 @@ answers leetcode
 | [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mahajan-Sachin/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
@@ -428,4 +435,5 @@ answers leetcode
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
