@@ -85,6 +85,7 @@ answers leetcode
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Mahajan-Sachin/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/Mahajan-Sachin/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Mahajan-Sachin/leetcode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/Mahajan-Sachin/leetcode/tree/master/0860-design-circular-queue) |
@@ -127,6 +128,7 @@ answers leetcode
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -136,6 +138,7 @@ answers leetcode
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -200,6 +203,7 @@ answers leetcode
 | [0344-reverse-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
@@ -279,6 +283,7 @@ answers leetcode
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Mahajan-Sachin/leetcode/tree/master/0441-arranging-coins) |
 | [0450-delete-node-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Mahajan-Sachin/leetcode/tree/master/0792-binary-search) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -358,6 +363,7 @@ answers leetcode
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahajan-Sachin/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
