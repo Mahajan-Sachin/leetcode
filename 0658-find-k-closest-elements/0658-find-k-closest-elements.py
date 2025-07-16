@@ -2,6 +2,7 @@ import heapq
 class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
         heap=[]
+        heapq.heapify(heap)
         for num in arr:
             diff=num-x
             heapq.heappush(heap,(-abs(diff),-num)) # sabse pehla diff ka basis pa heap bna maximim value delete hogi
