@@ -1,17 +1,19 @@
 class Solution:
-    def helper(self,nums,curr,result):
+    def helper(self,nums,curr,visited,result):
         if len(curr)==len(nums):
             result.append(curr[:])
             return
-        for num in nums:
-            if num in curr:
+        for i in range(len(nums)):
+            if visited[i]:
                 continue
-            curr.append(num)
-            self.helper(nums,curr,result)
+            curr.append(nums[i])
+            visited[i]=True
+            self.helper(nums,curr,visited,result)
+            visited[i]=False
             curr.pop()
-
     def permute(self, nums: List[int]) -> List[List[int]]:
         result=[]
-        self.helper(nums,[],result)
+        visited=[False]*len(nums)
+        self.helper(nums,[],visited,result)
         return result
         
