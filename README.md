@@ -86,6 +86,7 @@ answers leetcode
 | [0414-third-maximum-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Mahajan-Sachin/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Mahajan-Sachin/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -187,6 +188,7 @@ answers leetcode
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Mahajan-Sachin/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1160-letter-tile-possibilities](https://github.com/Mahajan-Sachin/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Two Pointers
@@ -377,6 +379,7 @@ answers leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mahajan-Sachin/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
