@@ -16,11 +16,11 @@ class Solution:
             return mini 
         def Total_sum(arr):
             return sum(arr)
-        Max_Sum=NormalKadane(nums)
+        Normal_max=NormalKadane(nums)
         Circular_Sum=Total_sum(nums)-min_subarray(nums)
-        if Max_Sum>0:
-            return max(Max_Sum,Circular_Sum)
+        if Normal_max>0:
+            return max(Normal_max,Circular_Sum)
         else:
-            return Max_Sum
+            return Normal_max
          
         
