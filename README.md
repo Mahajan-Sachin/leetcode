@@ -29,6 +29,7 @@ answers leetcode
 | [0119-pascals-triangle-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahajan-Sachin/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -93,6 +94,7 @@ answers leetcode
 | [0860-design-circular-queue](https://github.com/Mahajan-Sachin/leetcode/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -113,6 +115,7 @@ answers leetcode
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -421,6 +424,7 @@ answers leetcode
 | [0225-implement-stack-using-queues](https://github.com/Mahajan-Sachin/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mahajan-Sachin/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/Mahajan-Sachin/leetcode/tree/master/0860-design-circular-queue) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Graph
 |  |
 | ------- |
@@ -451,4 +455,8 @@ answers leetcode
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
