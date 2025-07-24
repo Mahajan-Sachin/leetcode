@@ -79,6 +79,7 @@ answers leetcode
 | [0152-maximum-product-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahajan-Sachin/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mahajan-Sachin/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
@@ -291,6 +292,7 @@ answers leetcode
 | [0098-validate-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mahajan-Sachin/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Mahajan-Sachin/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0268-missing-number) |
@@ -374,6 +376,7 @@ answers leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mahajan-Sachin/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -381,6 +384,7 @@ answers leetcode
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahajan-Sachin/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Linked List
