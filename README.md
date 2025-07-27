@@ -100,6 +100,7 @@ answers leetcode
 | [0954-maximum-sum-circular-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Number Theory
@@ -343,6 +344,7 @@ answers leetcode
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -357,6 +359,7 @@ answers leetcode
 | [0226-invert-binary-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Bit Manipulation
 |  |
@@ -412,6 +415,7 @@ answers leetcode
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mahajan-Sachin/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
+| [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
@@ -462,6 +466,7 @@ answers leetcode
 | [0054-spiral-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
+| [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 ## Quickselect
 |  |
 | ------- |
