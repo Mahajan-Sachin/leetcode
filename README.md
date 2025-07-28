@@ -99,6 +99,7 @@ answers leetcode
 | [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1036-rotting-oranges](https://github.com/Mahajan-Sachin/leetcode/tree/master/1036-rotting-oranges) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
@@ -362,6 +363,7 @@ answers leetcode
 | [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Mahajan-Sachin/leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1036-rotting-oranges](https://github.com/Mahajan-Sachin/leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Bit Manipulation
@@ -470,6 +472,7 @@ answers leetcode
 | [0073-set-matrix-zeroes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Mahajan-Sachin/leetcode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
+| [1036-rotting-oranges](https://github.com/Mahajan-Sachin/leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 ## Quickselect
 |  |
