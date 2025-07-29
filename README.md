@@ -19,6 +19,7 @@ answers leetcode
 | [0441-arranging-coins](https://github.com/Mahajan-Sachin/leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/1013-fibonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mahajan-Sachin/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ answers leetcode
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mahajan-Sachin/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Number Theory
 |  |
@@ -196,6 +198,7 @@ answers leetcode
 | [0560-subarray-sum-equals-k](https://github.com/Mahajan-Sachin/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1160-letter-tile-possibilities](https://github.com/Mahajan-Sachin/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mahajan-Sachin/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -474,6 +477,7 @@ answers leetcode
 | [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Mahajan-Sachin/leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
+| [3227-find-missing-and-repeated-values](https://github.com/Mahajan-Sachin/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Quickselect
 |  |
 | ------- |
