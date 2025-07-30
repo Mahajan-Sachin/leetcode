@@ -9,8 +9,8 @@ class Solution:
             curr.append(nums[i])
             visited[i]=True
             self.helper(nums,curr,visited,result)
-            visited[i]=False
             curr.pop()
+            visited[i]=False
     def permute(self, nums: List[int]) -> List[List[int]]:
         result=[]
         visited=[False]*len(nums)
