@@ -30,6 +30,7 @@ answers leetcode
 | [0119-pascals-triangle-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mahajan-Sachin/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0542-01-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -89,6 +90,7 @@ answers leetcode
 | [0414-third-maximum-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahajan-Sachin/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Mahajan-Sachin/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -364,6 +366,7 @@ answers leetcode
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Mahajan-Sachin/leetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Mahajan-Sachin/leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -475,6 +478,7 @@ answers leetcode
 | [0048-rotate-image](https://github.com/Mahajan-Sachin/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0542-01-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Mahajan-Sachin/leetcode/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/Mahajan-Sachin/leetcode/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Mahajan-Sachin/leetcode/tree/master/1036-rotting-oranges) |
