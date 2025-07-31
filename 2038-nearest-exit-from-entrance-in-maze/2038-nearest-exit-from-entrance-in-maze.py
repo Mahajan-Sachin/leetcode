@@ -9,7 +9,7 @@ class Solution:
         q.append((enter_row,enter_col,steps))
         while q:
             row,col,step=q.popleft()
-            if (row != entrance[0] or col != entrance[1]) and (row == 0 or row == rows-1 or col == 0 or col == cols-1):
+            if (row != entrance[0] or col != entrance[1]) and ((row == 0 or row == rows-1) or (col == 0 or col == cols-1)):
                 return step
             directions=[[-1,0],[1,0],[0,-1],[0,1]]
             for dr,dc in directions:
