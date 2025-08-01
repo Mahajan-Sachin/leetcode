@@ -358,6 +358,7 @@ answers leetcode
 | [0733-flood-fill](https://github.com/Mahajan-Sachin/leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mahajan-Sachin/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Mahajan-Sachin/leetcode/tree/master/0922-possible-bipartition) |
 | [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -377,6 +378,7 @@ answers leetcode
 | [0733-flood-fill](https://github.com/Mahajan-Sachin/leetcode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Mahajan-Sachin/leetcode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Mahajan-Sachin/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Mahajan-Sachin/leetcode/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Mahajan-Sachin/leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Mahajan-Sachin/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -438,6 +440,7 @@ answers leetcode
 | [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Mahajan-Sachin/leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Mahajan-Sachin/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Mahajan-Sachin/leetcode/tree/master/0922-possible-bipartition) |
 | [2035-count-sub-islands](https://github.com/Mahajan-Sachin/leetcode/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Simulation
@@ -469,6 +472,7 @@ answers leetcode
 | ------- |
 | [0547-number-of-provinces](https://github.com/Mahajan-Sachin/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Mahajan-Sachin/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0922-possible-bipartition](https://github.com/Mahajan-Sachin/leetcode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Mahajan-Sachin/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Backtracking
 |  |
