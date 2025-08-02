@@ -26,6 +26,6 @@ class Solution:
             elif root.left and root.right:
                 succesor=self.mini(root.right)
                 root.val=succesor.val
-                root.right=self.deleteNode(root.right,succesor.val)
+                root.right=self.deleteNode(root.right,root.val)
         return root
         
