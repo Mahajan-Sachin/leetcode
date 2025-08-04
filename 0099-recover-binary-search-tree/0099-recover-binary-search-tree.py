@@ -9,17 +9,24 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        self.prev=self.second=self.first=None
-        def inorder(node):
-            if not node:
+        List=[]
+        def inorder(root):
+            if not root:
                 return None
-            inorder(node.left)
-            if self.prev and self.prev.val>node.val:
-                if not self.first:
-                    self.first=self.prev
-                self.second=node
-            self.prev=node
-            inorder(node.right)
+            inorder(root.left)
+            List.append(root.val)
+            inorder(root.right)
         inorder(root)
-        self.first.val, self.second.val = self.second.val, self.first.val
-        
+        List.sort()
+        i=0
+        def correct(root):
+            nonlocal i
+            if not root:
+                return None
+            correct(root.left)
+            root.val=List[i]
+            i+=1
+            correct(root.right)
+        correct(root)
+
+    
