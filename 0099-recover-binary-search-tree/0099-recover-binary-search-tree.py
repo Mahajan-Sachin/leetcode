@@ -1,29 +1,25 @@
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
     def recoverTree(self, root: Optional[TreeNode]) -> None:
-        inorder_vals = []
-
-        # Step 1: Get inorder traversal into a list
+        """
+        Do not return anything, modify root in-place instead.
+        """
+        self.prev=self.second=self.first=None
         def inorder(node):
             if not node:
-                return
+                return None
             inorder(node.left)
-            inorder_vals.append(node.val)
+            if self.prev and self.prev.val>node.val:
+                if not self.first:
+                    self.first=self.prev
+                self.second=node
+            self.prev=node
             inorder(node.right)
-        
         inorder(root)
-
-        # Step 2: Sort the values (correct inorder)
-        inorder_vals.sort()
-
-        # Step 3: Traverse again and overwrite wrong values
-        self.i = 0  # use self to persist i across recursion
-
-        def correct_tree(node):
-            if not node:
-                return
-            correct_tree(node.left)
-            node.val = inorder_vals[self.i]
-            self.i += 1
-            correct_tree(node.right)
+        self.first.val, self.second.val = self.second.val, self.first.val
         
-        correct_tree(root)
