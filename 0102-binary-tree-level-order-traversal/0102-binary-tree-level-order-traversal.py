@@ -23,8 +23,6 @@ class Solution:
                     q.append(node.right)
             result.append(level)
         return result
+             
 
-
-                
-        
         
