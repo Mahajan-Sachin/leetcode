@@ -41,6 +41,7 @@ answers leetcode
 | [0050-powx-n](https://github.com/Mahajan-Sachin/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Mahajan-Sachin/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -250,6 +251,7 @@ answers leetcode
 | [0242-valid-anagram](https://github.com/Mahajan-Sachin/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Mahajan-Sachin/leetcode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0742-to-lower-case](https://github.com/Mahajan-Sachin/leetcode/tree/master/0742-to-lower-case) |
@@ -275,6 +277,7 @@ answers leetcode
 | [0225-implement-stack-using-queues](https://github.com/Mahajan-Sachin/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mahajan-Sachin/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mahajan-Sachin/leetcode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mahajan-Sachin/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
