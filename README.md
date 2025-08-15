@@ -558,4 +558,8 @@ answers leetcode
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Mahajan-Sachin/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Mahajan-Sachin/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
