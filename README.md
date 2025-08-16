@@ -237,6 +237,7 @@ answers leetcode
 | [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/Mahajan-Sachin/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -268,6 +269,7 @@ answers leetcode
 | [1205-defanging-an-ip-address](https://github.com/Mahajan-Sachin/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1666-make-the-string-great](https://github.com/Mahajan-Sachin/leetcode/tree/master/1666-make-the-string-great) |
+| [1894-merge-strings-alternately](https://github.com/Mahajan-Sachin/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2887-sort-vowels-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
 |  |
