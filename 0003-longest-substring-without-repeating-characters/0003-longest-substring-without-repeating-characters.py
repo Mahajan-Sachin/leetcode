@@ -5,7 +5,7 @@ class Solution:
         if len(s)==0:
             return 0
         length=-1
-        while right<len(s)-1:
+        while right<len(s):
             while Set and s[right] in Set:
                 Set.remove(s[left])
                 left+=1
