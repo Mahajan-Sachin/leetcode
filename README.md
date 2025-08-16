@@ -206,6 +206,7 @@ answers leetcode
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahajan-Sachin/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0567-permutation-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/Mahajan-Sachin/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3227-find-missing-and-repeated-values](https://github.com/Mahajan-Sachin/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -234,6 +235,7 @@ answers leetcode
 | [0345-reverse-vowels-of-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Mahajan-Sachin/leetcode/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0567-permutation-in-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Mahajan-Sachin/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -260,6 +262,7 @@ answers leetcode
 | [0424-longest-repeating-character-replacement](https://github.com/Mahajan-Sachin/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Mahajan-Sachin/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0812-rotate-string) |
@@ -459,6 +462,7 @@ answers leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/Mahajan-Sachin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mahajan-Sachin/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Mahajan-Sachin/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Mahajan-Sachin/leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
