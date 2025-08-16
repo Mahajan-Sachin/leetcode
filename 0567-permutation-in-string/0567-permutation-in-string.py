@@ -1,7 +1,7 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
         k=len(s1)
-        if k<len(s1):
+        if k>len(s2):
             return False
         i=j=0
         freq_s1=Counter(s1)
