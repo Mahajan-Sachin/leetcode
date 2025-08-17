@@ -3,9 +3,9 @@ class Solution:
         k=len(s1)
         if k>len(s2):
             return False
-        i=j=0
         freq_s1=Counter(s1)
         freq={}
+        i=j=0
         while j<len(s2):
             freq[s2[j]]=freq.get(s2[j],0)+1
             if j-i+1<k:
@@ -20,5 +20,3 @@ class Solution:
                     i+=1
                     j+=1
         return False
-
-        
