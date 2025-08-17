@@ -589,4 +589,5 @@ answers leetcode
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mahajan-Sachin/leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Mahajan-Sachin/leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Mahajan-Sachin/leetcode/tree/master/0183-customers-who-never-order) |
+| [1908-recyclable-and-low-fat-products](https://github.com/Mahajan-Sachin/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
