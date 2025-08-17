@@ -12,11 +12,10 @@ class Solution:
                 j+=1
             elif j-i+1==k:
                 if freq_s1==freq:
-                    return True
-                else:
-                    freq[s2[i]]-=1
-                    if freq[s2[i]]==0:
-                        del freq[s2[i]]
-                    i+=1
-                    j+=1
+                    return True                
+                freq[s2[i]]-=1
+                if freq[s2[i]]==0:
+                    del freq[s2[i]]
+                i+=1
+                j+=1
         return False
