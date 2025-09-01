@@ -279,6 +279,7 @@ answers leetcode
 | [0424-longest-repeating-character-replacement](https://github.com/Mahajan-Sachin/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0520-detect-capital](https://github.com/Mahajan-Sachin/leetcode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Mahajan-Sachin/leetcode/tree/master/0742-to-lower-case) |
