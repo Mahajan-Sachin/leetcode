@@ -189,6 +189,7 @@ answers leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/Mahajan-Sachin/leetcode/tree/master/0948-sort-an-array) |
 | [1160-letter-tile-possibilities](https://github.com/Mahajan-Sachin/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Mahajan-Sachin/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@ answers leetcode
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mahajan-Sachin/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1666-make-the-string-great](https://github.com/Mahajan-Sachin/leetcode/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Mahajan-Sachin/leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Mahajan-Sachin/leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1894-merge-strings-alternately](https://github.com/Mahajan-Sachin/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2887-sort-vowels-in-a-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Trie
