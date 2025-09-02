@@ -2,12 +2,10 @@ class Solution:
     def buddyStrings(self, s: str, goal: str) -> bool:
         freq_s=Counter(s)
         freq_goal=Counter(goal)
-        if freq_s!=freq_goal:
+        if freq_s!=freq_goal or len(s)!=len(goal):
             return False
         s=list(s)
         goal=list(goal)
-        if len(s)!=len(goal):
-            return False
         def checkFreq(s):
             s="".join(s)
             freq=Counter(s)
