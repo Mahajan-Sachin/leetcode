@@ -219,6 +219,7 @@ answers leetcode
 | [0496-next-greater-element-i](https://github.com/Mahajan-Sachin/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Mahajan-Sachin/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0567-permutation-in-string) |
+| [0889-buddy-strings](https://github.com/Mahajan-Sachin/leetcode/tree/master/0889-buddy-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Mahajan-Sachin/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Mahajan-Sachin/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Mahajan-Sachin/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -284,6 +285,7 @@ answers leetcode
 | [0680-valid-palindrome-ii](https://github.com/Mahajan-Sachin/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/Mahajan-Sachin/leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/0812-rotate-string) |
+| [0889-buddy-strings](https://github.com/Mahajan-Sachin/leetcode/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Mahajan-Sachin/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Mahajan-Sachin/leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/Mahajan-Sachin/leetcode/tree/master/1160-letter-tile-possibilities) |
